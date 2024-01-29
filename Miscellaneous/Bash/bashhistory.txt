@@ -1,0 +1,80 @@
+    1  ls -l .ssh
+    2  ssh-keygen -t ed25519
+    3  cat ~/.ssh/id_ed25519.pub 
+    4  pwd
+    5  git clone git@github.com:Spacesity/Music-Game.git
+    6  git pull
+    7  cd Music-Game/
+    8  ls -l
+    9  git pull
+   10  ssh-agent 
+   11  SSH_AUTH_SOCK=/var/folders/gw/2ds4_hz148bg03318tlh_5jw0000gn/T//ssh-8RlwMdZkA0D5/agent.1258; export SSH_AUTH_SOCK;
+   12  SSH_AGENT_PID=1259; export SSH_AGENT_PID;
+   13  echo Agent pid 1259;
+   14  git pull
+   15  git pull
+   16  ssh-add 
+   17  git pull
+   18  pwd
+   19  cd ..
+   20  mkdir web
+   21  cd web
+   22  ls -
+   23  pwd
+   24  python3 -m httpserver
+   25  python3 -m http.server
+   26  git config --global.username "Spacesity"
+   27  git config --global user.name "Spacesity"
+   28  git config --global user.email "spacesity@spacesity.com"
+   29  zsh
+   30  if [ $x == "y" ]
+   31  if [ "$x" == "y" ]; git config --global.username "Spacesity"; 
+   32  then
+   33  if [ "$x" == "y" ];then echo yes;fi
+   34  x=y
+   35  if [ "$x" == "y" ];then echo yes;fi
+   36  echo {1..10}
+   37  for x in {1..10};do echo x;done
+   38  for x in {1..10};do echo $x;done
+   39  date
+   40  cal
+   41  cal 2023
+   42  cal 1874
+   43  grep
+   44  cat /usr/share/dict/words
+   45  cat /usr/share/dict/words | wc -l
+   46  cat /usr/share/dict/words | wc -w
+   47  cat /usr/share/dict/words | grep  "tox"
+   48  cat /usr/share/dict/words | grep  "lucas"
+   49  cat /usr/share/dict/words | grep  "richie"
+   50* cat /usr/share/dict/words | grep  "rich
+   51  cat /usr/share/dict/words | grep  "rich"
+   52  cat /usr/share/dict/words | grep  "rythie"
+   53  cat /usr/share/dict/words | grep  "rich"
+   54  cat /usr/share/dict/words | grep  "rich" wc -l
+   55  cat /usr/share/dict/words | grep  "rich" | wc -l
+   56  cat /usr/share/dict/words | grep -i  "rich" | wc -l
+   57  cat /usr/share/dict/words | grep -i  "rich"
+   58  cat /usr/share/dict/words | grep -i  "^rich"
+   59  cat /usr/share/dict/words | grep -i  "rich$"
+   60* 
+   61  cat /usr/share/dict/words | grep -i  "[rt]ich"
+   62  #!/bin/bash
+   63  say thanks
+   64  pwd
+   65  cd Documents
+   66  cd Programming
+   67  cd Practice
+   68  cd Bash
+   69  nano bashtest.sh
+   70  bashtest.sh
+   71  echo $PATH
+   72  pwd
+   73  ./bashtest.sh
+   74  chmod 700 bashtest.sh
+   75  ./bashtest.sh
+   76  ls -l bashtest.sh
+   77  chmod 751 bashtest.sh
+   78  ls -l bashtest.sh
+   79  history
+   80  history > bashhistory.txt

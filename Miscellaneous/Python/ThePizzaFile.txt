@@ -1,0 +1,6 @@
+Margarita, 12.00, 5
+Calabra, 14.50, 5
+Hawaiian, 13.50, 1
+Prawn Pizza, 69.69, 4
+Sancho Pancho, 16.00, 3
+American Pizza, 20.00, 2

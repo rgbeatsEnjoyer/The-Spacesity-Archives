@@ -1,0 +1,18 @@
+Pizza Service Simulator:
+
+Customer and Worker.
+
+Worker permissions:
+- View pizza list
+- Work: Solve math problems and earn money (cashier)
+- Exit application
+
+Customer permissions:
+- View pizza list
+- Add pizzas (using reference number e.g., pizza no 69) to checkout list
+- Buy pizzas
+
+To buy pizzas, you need a balance. To earn money, you need "£" earnt by being a "Worker". Workers work and gain a salary by solving math problems.
+
+You can buy pizzas as a customer. Buying pizzas can earn you badges e.g., buy 10 pizzas, and buy all kinds of pizzas. 
+

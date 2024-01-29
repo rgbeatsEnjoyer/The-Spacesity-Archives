@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Spacesity, spacesity, Lucas Cunningham-Gonzalez">
+    <meta name="description" content="Spacesity, spacesity, Lucas Cunningham-Gonzalez">
+    <meta name="author" content="Spacesity">
+    <title>Form</title>
+</head>
+<body>
+    <form>
+        <label for="first_name">First Name: </label>
+        <input type="text" id="first_name" name="first_name" placeholder="Donald">
+        
+        <br><br>
+        
+        <label for="surname">First Name: </label>
+        <input type="text" id="surname" name="surname" placeholder="Trump">
+        
+        <br><br>
+        
+        <br><br>
+        
+        <label for="Mr.">Mr.</label>
+        <input type="radio" value = "Mr." id="Mr." name="title">
+        <label for="Mrs.">Mrs.</label>
+        <input type="radio" value = "Mrs." id="Mrs." name="title">
+
+        <br><br>
+
+        <label for="payment">Payment:</label>
+        <select id="payment">
+            <option value="visa">Visa</option>
+            <option value="check">Check</option>
+        </select>
+
+        <br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="spacesity@spacesity.com">
+
+        <br><br>
+
+        <label for="birthday">Birthdate:</label>
+        <input type="date" id="birthdate" name="birthday" min="">
+
+        <br><br>
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" name="quantity" min="0" max="3">
+
+        <br><br>
+
+        <label for="phone">Phone #:</label>
+        <input type="tel" id="phone" name="phone">
+
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" minlength="8" maxlength="20">     
+        <br><br>
+
+        <label for="slider">Rate us:</label>
+        1<input type="range" step="25">5
+        <br><br>
+        <label for="upload_file">Upload a file:</label>
+        <input type="file" id="myfile" name="myfile" accept=".txt">
+        <br><br>
+        <input type="reset">
+        <input type="submit">
+
+
+    </form>
+    
+</body>
+</html>

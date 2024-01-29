@@ -1,0 +1,3 @@
+This was made in bash!
+I used the command "nano" then the filename to open it.
+Bash is awesome!
