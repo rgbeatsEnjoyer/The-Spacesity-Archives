@@ -3,9 +3,8 @@ import json
 import datetime
 
 # server
-HOST = "127.0.0.1"
-PORT = 6923
-
+HOST = #"he doxxes homself here"
+PORT= #he doxxes himself here
 # arrays
 commands = ["/exit", "/get_username"]
 
